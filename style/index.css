@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div2{
+    background-color: rgb(29, 29, 29);
+}
+.div3{
+    margin-top: -15%;
+}
+.h11{
+   color: orangered;
+   border-radius: 50%;
+height: 100px;
+width: 100px;
+margin-left: 20%;
+}
+.img1{
+
+ border-radius: 50%;
+ margin-top: 5%;
+ margin-left: 10%;
+ height: 300px;
+ width: 300px;
+}
+.img3{
+  margin-top: 8%;
+    border-radius: 50%;
+    margin-left: 5%;
+    height: 150px;
+    width: 150px;
+   }
+   .img4{
+   border: 5px solid orangered;
+    border-radius: 50%;
+    margin-top: -7%;
+    margin-left: 50%;
+
+    height: 350px;
+    width: 350px;
+   }
+.p1{
+    color:orangered;
+    font-size: 50px;
+    margin-left: 35%;
+    width: 200px;
+    margin-top: -10%;
+  
+
+}
+.p2{
+    margin-top: -10%;
+    color:orangered;
+    font-size: 40px;
+    margin-left: 40%;
+}
+.p3{
+    color:rgb(75, 74, 74);
+    font-size: 25px;
+    margin-left: 23%;
+   margin-right: 30%;
+}
+.span1{
+color: orangered;
+font-weight: lighter;
+}
+
+.img5{
+    border: 5px solid orangered;
+     border-radius: 50%;
+     margin-top: 2%;
+     margin-left:3%;
+     height: 350px;
+     width: 350px;
+    }
+.img6{
+    border-radius: 50%;
+    height: 230px;
+    width: 230px;
+    margin-top: 20%;
+    margin-left: 15%;
+    margin-top: 8%;
+}
+.div5{
+    background-color: white;
+    margin-top: 15%;
+;
+}
+.car1{
+ 
+    margin-left: 60%;
+   margin-top: -3%;  
+   color: white;
+   background-color: orangered;
+}
+#h1{
+
+}
+.car2{
+ 
+    margin-left: 20%;
+   margin-top: -1%;   
+    background-color: rgb(239, 240, 240);
+}
+#img{
+    margin-top: 10%;
+    height: 1100px
+}
+#div{
+    background-image: url(../rasm1.png);
+}
+.g1{
+    margin-left: 50%;
+
+}
+.div7{
+    margin-top: 5%;
+}
+.org{
+    background-color: orangered;
+}
+.engkattadiv{
+    background-color: orangered;
+   height: 600px;
+}
+#btn1:hover{
+  box-shadow: 5px 5px 5px white;
+}
+#btn2:hover{
+    box-shadow: 5px 5px 5px orangered
+  }
+.spam{
+    width: 100px;
+}
+
+
+
+
+
